@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevelopersHub Corporation — Vue.js Website
 
 A fully responsive, production-grade corporate website built with **Vue 3**, **Vue Router**, and **Vite**.
@@ -160,3 +161,6 @@ npm run build
 **DevelopersHub Corporation**  
 hello@developershub.co  
 +1 (555) 234-5678
+=======
+# DeveloperHub_Internship_Project
+>>>>>>> dcf81672a69ef426316c66d9bf574fe7a5e88b24
